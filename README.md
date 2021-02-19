@@ -6,9 +6,9 @@ This program is developed to analyze Zoom Poll Reports. It takes any number of p
 >Course Professor :
 >>Doç. Dr. Murat Can Ganiz
 
->Developers :
->>Yunus Emre Ertunç
->>Muhammed Enes Aktürk
->>Mahmut Hilmi Arıkmert
->>Kerim Boyacı
->>Hamza Türkmen
+>Developers :  
+>>>Muhammed Enes Aktürk  
+>>Yunus Emre Ertunç  
+>>Mahmut Hilmi Arıkmert  
+>>Kerim Boyacı  
+>>Hamza Türkmen  
